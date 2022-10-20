@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Uni\RealTimeGraphics\RealTimeGraphics\main.cpp(23,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\RealTimeGraphics\RealTimeGraphics\main.cpp(23,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\RealTimeGraphics\RealTimeGraphics\main.cpp(76,35): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+D:\Uni\RealTimeGraphics\RealTimeGraphics\main.cpp(76,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  RealTimeGraphics.vcxproj -> D:\Uni\RealTimeGraphics\x64\Debug\RealTimeGraphics.exe
